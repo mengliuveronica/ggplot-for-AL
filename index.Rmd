@@ -7,7 +7,7 @@ site: bookdown::bookdown_site
 
 # Welcome to ggplot for AL!
 
-## Motive for the book
+## Motive for the mini course
 
 If you are still deliberating whether you should drink the coolaid and start learning R. I totally get you! I had my initial hesitation to embrace R, with R's reputation of having a steep learning curve, especially for people with no background in coding or programming such as me. 
 
