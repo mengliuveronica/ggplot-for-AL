@@ -1,3 +1,4 @@
-my-first-book
+welcome-to-ggplot-for-al
+motive-for-the-book
 the-pool-of-tears
 a-caucus-race-and-a-long-tale
