@@ -1,5 +1,5 @@
 --- 
-title: "Introduction to ggplot for Applied Linguistics"
+title: "ggplot for Applied Linguistics: A mini course"
 author: "Meng Liu"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -14,6 +14,9 @@ If you are still deliberating whether you should drink the coolaid and start lea
 A couple of years down the road now, I can confidently tell you, to learn R is one of the best decisions I made during my PhD. I started off thinking I would just plot some graphs using R, and I would still do everything else in SPSS or excel. Well, now pretty much the opposite is true: I always prefer to stay in R unless I absolutely have to move elsewhere (thanks Tidyverse, you changed my life once and for all :))). 
 
 This is not to say that learning R is going to be easy but one thing I can guarantee you is that your threshold for feeling awesome will be reduced to a record low once you start playing with coding in R: I never thought adding an error bar or a percentage label on a bar plot could generate so much happiness for me!:))))
+
+## Before we begin
+A check list of things you need before proceeding: 
 
 
 
